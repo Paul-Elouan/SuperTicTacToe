@@ -34,7 +34,7 @@ To win the overall game, a player must win three smaller grids in a row (horizon
 
 Players need to think strategically, not only focusing on winning individual smaller grids but also considering the overall larger grid. A move in one smaller grid not only affects the outcome of that grid but also influences the next forced move for the opponent.
 
-```md
+```
 The grid's presentation:
 +-------------------+-------------------+-------------------+
 | A   1   2   3   A | B   1   2   3   B | C   1   2   3   C |
