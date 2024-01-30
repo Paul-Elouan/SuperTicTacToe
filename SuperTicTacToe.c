@@ -5,7 +5,7 @@
  * @version 2.1.2
  */
 
-#include "./includes.h"
+#include "includes_c.h"
 
 /****************************************************/
 /****************************************************/
@@ -60,6 +60,8 @@ int main()
 {
     mainScreen();
 
+    printf("\n");
+    system("pause");
     return EXIT_SUCCESS;
 }
 
