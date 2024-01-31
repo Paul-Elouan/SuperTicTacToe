@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "array.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "includes_c.h": "c",
+        "iostream": "cpp"
     }
 }
