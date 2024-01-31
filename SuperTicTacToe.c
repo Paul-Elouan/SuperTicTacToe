@@ -2,7 +2,7 @@
  * @brief Program to play Super Tic-Tac-Toe, a variation of tic-tac-toe where players need to complete a grid in order to claim a square of the main grid ('super grid')
  *
  * @author Powan
- * @version 2.1.2
+ * @version 2.1.3
  */
 
 #include "./includes.h"
